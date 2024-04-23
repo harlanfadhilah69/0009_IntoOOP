@@ -9,4 +9,7 @@ class bangunDatar {
     public:
         float Luas;
 
+        void input() {
+
+        }
 };
