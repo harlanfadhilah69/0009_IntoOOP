@@ -12,4 +12,14 @@ public:
         cout << "Umur: " << umur << endl;
         cout << "Jurusan: " << jurusan << endl;
     }
+
+};
+
+
+class Matakuliah {
+    private:
+        string kodeMk;
+        string namaMk;
+        int sks;
+
 };
