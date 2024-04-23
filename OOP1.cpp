@@ -8,5 +8,4 @@ public:
     string jurusan;
 
     void output() {
-        
-};
+        cout << "Nama: " << nama << endl;
